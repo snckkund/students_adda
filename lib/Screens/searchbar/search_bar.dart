@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth/Screens/searchbar/components/body.dart';
+import 'package:students_adda/Screens/searchbar/components/body.dart';
 
 class SearchBar extends StatelessWidget {
   @override

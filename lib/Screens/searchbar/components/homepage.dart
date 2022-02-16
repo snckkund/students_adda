@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth/Screens/searchbar/components/searchpage.dart';
+import 'package:students_adda/Screens/searchbar/components/searchpage.dart';
 
 // Home Page
 class HomePage extends StatelessWidget {
