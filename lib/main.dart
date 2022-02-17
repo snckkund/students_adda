@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:students_adda/Screens/Welcome/welcome_screen.dart';
 import 'package:students_adda/constants.dart';
-
+//CODE
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
