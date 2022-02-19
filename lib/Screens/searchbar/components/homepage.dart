@@ -7,7 +7,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Kindacode.com'),
+        title: Text('Student Adda'),
         actions: [
           // Navigate to the Search Screen
           IconButton(

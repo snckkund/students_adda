@@ -7,7 +7,7 @@ class Body extends StatelessWidget {
     return MaterialApp(
       // Remove the debug banner
         debugShowCheckedModeBanner: false,
-        title: 'Kindacode.com',
+        title: 'Student Adda',
         theme: ThemeData(
           primarySwatch: Colors.indigo,
         ),
