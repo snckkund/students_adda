@@ -27,6 +27,7 @@ class HomePage extends StatelessWidget {
           indicatorColor: Colors.transparent,
           labelPadding: EdgeInsets.zero,
           tabs: [
+            Tab(icon: Icon(Icons.chat), text: "Chat"),
             Tab(icon: Icon(Icons.search), text: "Search"),
             Tab(icon: Icon(IconData(0xf02c, fontFamily: 'MaterialIcons')), text: "Upcoming Events"),
             Tab(icon: Icon(IconData(0xf128, fontFamily: 'MaterialIcons')), text: "About Our College"),
