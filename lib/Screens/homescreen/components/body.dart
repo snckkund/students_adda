@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:students_adda/Screens/searchbar/components/homepage.dart';
+import 'package:students_adda/Screens/homescreen/components/homepage.dart';
 
 class Body extends StatelessWidget {
   @override

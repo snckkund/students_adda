@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:students_adda/Screens/searchbar/components/body.dart';
+import 'package:students_adda/Screens/homescreen/components/body.dart';
 
-class SearchBar extends StatelessWidget {
+
+class homescr extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:students_adda/Screens/Login/components/background.dart';
 import 'package:students_adda/Screens/Signup/signup_screen.dart';
+import 'package:students_adda/Screens/homescreen/home.dart';
 import 'package:students_adda/components/already_have_an_account_acheck.dart';
-import 'package:students_adda/screens/searchbar/search_bar.dart';
 import 'package:students_adda/components/rounded_button.dart';
 import 'package:students_adda/components/rounded_input_field.dart';
 import 'package:students_adda/components/rounded_password_field.dart';
@@ -45,7 +45,7 @@ class Body extends StatelessWidget {
                   context,
                   MaterialPageRoute(
                       builder: (context) {
-                        return SearchBar();
+                        return homescr();
                       },
                   ),
                 );

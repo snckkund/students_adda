@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:students_adda/Screens/Login/login_screen.dart';
-import 'package:students_adda/screens/searchbar/search_bar.dart';
+import 'package:students_adda/Screens/homescreen/home.dart';
 import 'package:students_adda/Screens/Signup/components/background.dart';
 import 'package:students_adda/Screens/Signup/components/or_divider.dart';
 import 'package:students_adda/Screens/Signup/components/social_icon.dart';
@@ -50,7 +50,7 @@ class Body extends StatelessWidget {
                   context,
                   MaterialPageRoute(
                     builder: (context) {
-                      return SearchBar();
+                      return homescr();
                     },
                   ),
                 );
